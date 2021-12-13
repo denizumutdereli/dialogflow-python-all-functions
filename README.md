@@ -2,8 +2,8 @@
 
 I tested all functions and they are working. 
 
-With refferenced Google API some parts of the functions not undertandable or not documented. So this is why I did some work on it.
+With refferenced Google API some parts of the functions not understandable or not well documented. So this is why I did some work on it.
 
-Hope this could help some other developers and cut time wasting while research.
+Hope this would help some other developers and cut wasting time while research.
 
 All the best.
